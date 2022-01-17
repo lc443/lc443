@@ -1,4 +1,4 @@
-### Hi, I am Leron Charles. I have a Masters in Information Systems from New Jersey Institute of Technology(NJIT), and I currently work for Revature as a Software Engineer.
+### Hi, I am Leron Charles. I am pursuing a Masters in Information Systems from New Jersey Institute of Technology(NJIT), and I currently work for Revature as a Software Engineer.
 ### I gained experience in Java Full Stack Development with Automation Testing and Angular, then started learning new technologies and enhancing my knowledge in Software Development.
 <br>
 
